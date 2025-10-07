@@ -2,7 +2,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/book-scraper.git
+git clone https://github.com/lenatisha/bookscrap.git
 cd book-scraper
 
 ---
